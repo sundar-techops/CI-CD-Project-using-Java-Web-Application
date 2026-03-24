@@ -1,3 +1,4 @@
+<img width="960" height="470" alt="Screenshot 2026-03-24 212019" src="https://github.com/user-attachments/assets/7e4893ac-3944-46c1-99b7-ebf2176f11af" />
 # 🚀 End-to-End CI/CD Pipeline using Jenkins, Docker & Maven
 
 ## 📌 Project Overview
