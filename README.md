@@ -1,4 +1,3 @@
-<img width="960" height="470" alt="Screenshot 2026-03-24 212019" src="https://github.com/user-attachments/assets/7e4893ac-3944-46c1-99b7-ebf2176f11af" />
 # 🚀 End-to-End CI/CD Pipeline using Jenkins, Docker & Maven
 
 ## 📌 Project Overview
@@ -73,3 +72,4 @@ Aspiring DevOps Engineer 🚀
 
 <img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/e6681044-13eb-4715-bd7a-34a26c62a42e" />
 <img width="1759" height="987" alt="Screenshot 2026-03-24 204325" src="https://github.com/user-attachments/assets/4fa7deaf-5b57-4947-a89d-a4b449c5c540" />
+<img width="960" height="470" alt="image" src="https://github.com/user-attachments/assets/f9efb452-55cd-4649-82ad-9d38e0755988" />
