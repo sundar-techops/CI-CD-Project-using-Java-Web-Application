@@ -11,14 +11,6 @@ pipeline {
         SONAR_TOKEN = "sqa_115965629ad3898bdcc8be201fdae28d98fc0054"
     }
 
-    stages {
-
-        stage('Clone Code') {
-            steps {
-                git 'https://github.com/sundar-techops/CI-CD-Project-using-Java-Web-Application.git'
-            }
-        }
-
         stage('Build') {
             steps {
                 sh 'mvn clean package'
